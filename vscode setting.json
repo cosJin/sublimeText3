@@ -1,0 +1,16 @@
+{
+    "python.pythonPath": "python3",
+    "vim.insertModeKeyBindings": [
+                {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "window.zoomLevel": 0,
+    "git.autofetch": true,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "git.enableSmartCommit": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 90,
+}
